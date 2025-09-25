@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science and AI student<br>I am currently working on my own personal project ideas<br>I love finding unique ideas to solve problems with code<br>I have experience with Java, php, html, css, C, python and javascript
+I am a computer science with AI student<br>I am currently working on my own personal project ideas<br>I love finding unique ideas to solve problems with code<br>I have experience with Java, php, html, css, C, python and javascript
 
 
 # 💻 Tech Stack:
